@@ -2,17 +2,17 @@
 /* .paragraph{
 	padding: 10px;
 } */
-.yellow{
+#yellow {
 	background: yellow;
 	border-width: 1px;
 	border-color: green;
 }
-.red{
+#red {
 	background: red;
 	border-width: 1px;
 	border-color: Black;
 }
-.green{
+#green {
 	background: green;
 	border-width: 1px;
 	border-color: yellow;
